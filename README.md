@@ -3,6 +3,17 @@
 ## ScreenShots
 ![quick_news_cover](https://github.com/user-attachments/assets/e40527c4-b71c-4cfc-a88c-0e80d265d4f5)
 
+
+![architecture0](https://raw.githubusercontent.com/AliAsadi/Android-Clean-Architecture/master/screenshot/architecture0.png)
+<div>
+ <h6>
+  <p align="center">https://raw.githubusercontent.com/AliAsadi/Android-Clean-Architecture/master/screenshot/architecture0.png</p>
+ </h6>
+</div>
+
+
+
+
 <div>
 <h3><a href="#uygulama-icerik">TR</a></h3>
 <h3><a href="#app-content">EN</a></h3>
